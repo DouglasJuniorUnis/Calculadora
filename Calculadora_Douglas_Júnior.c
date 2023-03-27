@@ -44,7 +44,7 @@ int main() {
                 }
                 break;
             case 5:
-                printf("\nSaindo...\n");
+                printf("\nSaindo....\n");
                 break;
             default:
                 printf("\nOpcao invalida\n");
