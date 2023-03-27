@@ -37,7 +37,7 @@ int main() {
                 printf("\nDigite dois numeros para dividir: ");
                 scanf("%f %f", &num1, &num2);
                 if (num2 == 0) {
-                    printf("\nErro: divisao por zero\n");
+                    printf("\nErro: Nao ha divisao por zero\n");
                 } else {
                     resultado = num1 / num2;
                     printf("\n%.2f / %.2f = %.2f\n", num1, num2, resultado);
